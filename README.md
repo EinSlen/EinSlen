@@ -36,5 +36,5 @@
 <p align="center">
     <a href="https://twitter.com/valentindtv"><img alt="twitter" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" width="48"/></a>
     <a href="https://discord.gg/QZfjqHwS6d"><img alt="discord" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png" width="48"/></a>
-    <a href="https://www.instagram.com/valentin_dtv/"><img alt="instagram" src="https://img.icons8.com/fluent/100/000000/instagram-new.png" width="48"/>]</a>
+    <a href="https://www.instagram.com/valentin_dtv/"><img alt="instagram" src="https://img.icons8.com/fluent/100/000000/instagram-new.png" width="48"/></a>
 </p>
