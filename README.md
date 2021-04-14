@@ -17,6 +17,7 @@
   <img alt="php" src="https://img.shields.io/badge/-PHP-FFB120?style=flat-square&logo=php&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-21B500?style=flat-square&logo=python&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/-Java-4495CF?style=flat-square&logo=java&logoColor=white" />
+  <img alt="c#" src="https://img.shields.io/badge/-C-44CF90?style=flat-square&logo=c%20sharp&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-EXPRESS-c0c1b8?style=flat-square&logo=express&logoColor=white">
 </p>
 
