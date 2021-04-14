@@ -15,10 +15,9 @@
   <img alt="react" src="https://img.shields.io/badge/-React-45B8D8?style=flat-square&logo=react&logoColor=white" />
   <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/-PHP-FFB120?style=flat-square&logo=php&logoColor=white" />
-  <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-21B500?style=flat-square&logo=python&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/-Java-4495CF?style=flat-square&logo=java&logoColor=white" />
-  <img alt="express" src="https://img.shields.io/badge/-EXPRESS-e3f52d?style=flat-square&logo=express&logoColor=black">
+  <img alt="express" src="https://img.shields.io/badge/-EXPRESS-c0c1b8?style=flat-square&logo=expressjs&logoColor=black">
 </p>
 
 ---
