@@ -17,7 +17,7 @@
   <img alt="php" src="https://img.shields.io/badge/-PHP-FFB120?style=flat-square&logo=php&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-21B500?style=flat-square&logo=python&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/-Java-4495CF?style=flat-square&logo=java&logoColor=white" />
-  <img alt="express" src="https://img.shields.io/badge/-EXPRESS-c0c1b8?style=flat-square&logo=expressjs&logoColor=black">
+  <img alt="express" src="https://img.shields.io/badge/-EXPRESS-c0c1b8?style=flat-square&logo=express&logoColor=white">
 </p>
 
 ---
@@ -38,8 +38,8 @@
 
 ## 📱 Social:
 <p align="center">
-    <img alt="twitter" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" width="48"/>(https://twitter.com/valentindtv)
-    <img alt="discord" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png" width="48"/>(https://discord.gg/QZfjqHwS6d)
-    <img alt="instagram" src="https://img.icons8.com/fluent/100/000000/instagram-new.png" width="48"/>(https://www.instagram.com/valentin_dtv/)
+    [<img alt="twitter" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" width="48"/>](https://twitter.com/valentindtv)
+    [<img alt="discord" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png" width="48"/>](https://discord.gg/QZfjqHwS6d)
+    [<img alt="instagram" src="https://img.icons8.com/fluent/100/000000/instagram-new.png" width="48"/>](https://www.instagram.com/valentin_dtv/)
     <img alt="mail" src="https://img.icons8.com/emoji/48/000000/e-mail.png" width="48"/><a href="mailto:valentin.damlencour@gmail.com?subject=Demande de développement&body=Faîtes votre demande : "></a>
 </p>
