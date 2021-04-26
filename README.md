@@ -25,7 +25,7 @@
 ---
 
 ## 🚩 Projects:
-- [Contributor <img src="https://static.formation.tech/formations/logos/889d72ed4da481c24ef573c9098b1a99.svg" width="24"/>](https://github.com/reactjs/hu.reactjs.org)
+- [Contributor <img src="https://static.formation.tech/formations/logos/889d72ed4da481c24ef573c9098b1a99.svg" width="24"/>](https://github.com/reactjs/fr.reactjs.org)
 - [PokerPlay Bot <img src="https://pokerplay.fr/image/logo.jpeg" width="24"/>](https://pokerplay.fr)
 - [Change your phone <img src="https://images.frandroid.com/wp-content/uploads/2017/07/illustration-sms.jpg" width="24"/>](https://github.com/EinSlen/changePhoneWalpaper)
 
