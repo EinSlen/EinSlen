@@ -2,8 +2,8 @@
 
 <img align="right" alt="DVLaD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=einslen&show_icons=true&hide_border=true" />
 
-- 💻 I'm a Student, a young Developer
-- 🥖 I love french bread
+- 💻 I'm a Student, a young Software engineer
+- 👀 Try to get money with code
 
 ---
 
