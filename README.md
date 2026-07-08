@@ -2,7 +2,7 @@
 <h3 align="center">French Software Engineer — Full-Stack & Game Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer+from+Lens+%F0%9F%87%AB%F0%9F%87%B7;Full-Stack+Developer;Game+Developer;Creator+of+PokerPlay" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer;Full-Stack+Developer;Game+Developer;Creator+of+PokerPlay" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 ### 🧑‍💻 About me
 
 <p align="center">
-  I'm a French software engineer based in Lens 🇫🇷.<br>
-  I love building things end to end — from web and mobile apps to games — and turning ideas into products people actually use.<br>
+  I'm a French software engineer.<br>
+  I love building things end to end from web and mobile apps to games and turning ideas into products people actually use.<br>
   When I'm not shipping code, I'm usually working on a game of my own. Always chasing the next project.
 </p>
 
