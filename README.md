@@ -1,37 +1,58 @@
-<h1><img src="https://media1.tenor.com/images/f38bd4f0ae23b4d7d594c388ab4f09ed/tenor.gif?itemid=12359359" width="30"/> Hi there, I'm DVLaD</h1>
+<h1 align="center">Hi 👋, I'm DVLaD</h1>
+<h3 align="center">French Software Engineer — Full-Stack & Game Developer</h3>
 
-<img align="right" alt="DVLaD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=einslen&show_icons=true&hide_border=true" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer+from+Lens+%F0%9F%87%AB%F0%9F%87%B7;Full-Stack+Developer;Game+Developer;Creator+of+PokerPlay" alt="Typing SVG" />
+</p>
 
-- 💻 I'm a Student, a young Software engineer
-- 👀 Try to get money with code
-
----
-
-## 🌍 Programming languages:
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="react" src="https://img.shields.io/badge/-React-45B8D8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="php" src="https://img.shields.io/badge/-PHP-FFB120?style=flat-square&logo=php&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/-Python-21B500?style=flat-square&logo=python&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-4495CF?style=flat-square&logo=java&logoColor=white" />
-  <img alt="express" src="https://img.shields.io/badge/-EXPRESS-c0c1b8?style=flat-square&logo=express&logoColor=white">
+<p align="center">
+  <a href="https://einslen.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://pokerplay.fr"><img src="https://img.shields.io/badge/PokerPlay-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=einslen&label=Profile%20views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚩 Projects:
-- [Contributor <img src="https://static.formation.tech/formations/logos/889d72ed4da481c24ef573c9098b1a99.svg" width="24"/>](https://github.com/reactjs/fr.reactjs.org)
-- [PokerPlay Bot <img src="https://pokerplay.fr/image/logo.jpeg" width="24"/>](https://pokerplay.fr)
-- [Change your phone <img src="https://images.frandroid.com/wp-content/uploads/2017/07/illustration-sms.jpg" width="24"/>](https://github.com/EinSlen/changePhoneWalpaper)
+### 🧑‍💻 About me
+
+- 🔭 I build across the stack — **web, mobile and games**
+- 🎮 I make games on the side (**Java/JavaFX, Godot**)
+- 🃏 Creator of **[PokerPlay](https://pokerplay.fr)**, a Discord poker bot
+- 🌱 Currently working on **SaaS and game projects**
+- 🌐 More about me → **[einslen.github.io/portfolio](https://einslen.github.io/portfolio/)**
 
 ---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/EinSlen/count.svg" />
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,python,java,cpp,php,laravel,dart,flutter,html,css,git,mysql,linux" />
+</p>
+
+---
+
+### 🚀 Featured projects
+
+- 🎮 **[FlatCraft](https://github.com/EinSlen/flatcraft)** — a 2D Minecraft / Terraria-like game in **Java & JavaFX**
+- 🃏 **[PokerPlay](https://github.com/EinSlen/PokerPlay)** — my Discord poker bot ([pokerplay.fr](https://pokerplay.fr))
+- 🕹️ **[Board Games](https://github.com/EinSlen/boardgames)** — 6 mini-games with shop, ranks & scores (**Ionic / Angular**)
+- 💼 **[Portfolio](https://einslen.github.io/portfolio/)** — built with **Next.js, Tailwind & i18n**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=einslen&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=einslen&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=einslen&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=einslen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 ---
