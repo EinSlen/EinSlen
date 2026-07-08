@@ -15,11 +15,11 @@
 
 ### 🧑‍💻 About me
 
-- 🔭 I build across the stack — **web, mobile and games**
-- 🎮 I make games on the side (**Java/JavaFX, Godot**)
-- 🃏 Creator of **[PokerPlay](https://pokerplay.fr)**, a Discord poker bot
-- 🌱 Currently working on **SaaS and game projects**
-- 🌐 More about me → **[einslen.github.io/portfolio](https://einslen.github.io/portfolio/)**
+<p align="center">
+  I'm a French software engineer based in Lens 🇫🇷.<br>
+  I love building things end to end — from web and mobile apps to games — and turning ideas into products people actually use.<br>
+  When I'm not shipping code, I'm usually working on a game of my own. Always chasing the next project.
+</p>
 
 ---
 
@@ -31,28 +31,9 @@
 
 ---
 
-### 🚀 Featured projects
+### 🚀 What I'm building
 
-- 🎮 **[FlatCraft](https://github.com/EinSlen/flatcraft)** — a 2D Minecraft / Terraria-like game in **Java & JavaFX**
-- 🃏 **[PokerPlay](https://github.com/EinSlen/PokerPlay)** — my Discord poker bot ([pokerplay.fr](https://pokerplay.fr))
-- 🕹️ **[Board Games](https://github.com/EinSlen/boardgames)** — 6 mini-games with shop, ranks & scores (**Ionic / Angular**)
-- 💼 **[Portfolio](https://einslen.github.io/portfolio/)** — built with **Next.js, Tailwind & i18n**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=einslen&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=einslen&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=einslen&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=einslen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
+- 🃏 **PokerPlay** — a Discord bot I created ([pokerplay.fr](https://pokerplay.fr))
+- 🎮 **Bloomstead** — a cozy 2D co-op automation game, currently in development
 
 ---
