@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DVLaD</h1>
+<h1 align="center">Hi 👋, I'm Damlencourt Valentin</h1>
 <h3 align="center">French Software Engineer — Full-Stack & Game Developer</h3>
 
 <p align="center">
